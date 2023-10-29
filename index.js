@@ -1,4 +1,4 @@
-let nickname = prompt("ksdmlc");
+let nickname = prompt("Digite o seu nickname");
 
 let xp = prompt("Digite o seu xp");
 
