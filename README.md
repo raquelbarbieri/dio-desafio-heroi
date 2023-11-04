@@ -8,19 +8,19 @@ Desafio da DIO para classificar o nível do herói.
 
 **Versão 1**
 - Código em JavaScript
-- Arquivo "index-v1.js"
+- Arquivo [index-v1.js](https://github.com/raquelbarbieri/dio-desafio-heroi/blob/main/index-v1.js)
 - Utilizei a IDE playcode
 
 #
 
 **Versão 2**
 - Fiz o mesmo código, mas na linguagem Python
-- Arquivo "index-v2.py"
+- Arquivo [index-v2.py](https://github.com/raquelbarbieri/dio-desafio-heroi/blob/main/index-v2.py)
 - Utilizei a IDE colab Google
 
 #
 
 **Versão 3**
 - Adicionei novos comandos no código em Python
-- Arquivo "index-v3.py"
+- Arquivo [index-v3.py](https://github.com/raquelbarbieri/dio-desafio-heroi/blob/main/index-v3.py)
 - Utilizei a IDE colab Google
