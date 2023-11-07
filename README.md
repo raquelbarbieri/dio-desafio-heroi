@@ -1,6 +1,6 @@
 # dio-desafio-heroi
 
-Desafio da DIO para classificar o nível do herói.
+Repositório criado para o desafio da DIO "Classificador de nível do herói", lançado no Potência Tech iFood - Programação do Zero. 
 
 **Proposta:** Digite o seu nickname e o seu xp para descobrir em qual nível você está 🚀🚀
 
