@@ -16,11 +16,11 @@ Repositório criado para o desafio da DIO "Classificador de nível do herói", l
 **Versão 2**
 - Fiz o mesmo código, mas na linguagem Python
 - Arquivo [index-v2.py](https://github.com/raquelbarbieri/dio-desafio-heroi/blob/main/index-v2.py)
-- Utilizei a IDE colab Google
+- Utilizei a IDE Google Colab
 
 #
 
 **Versão 3**
 - Adicionei novos comandos no código em Python
 - Arquivo [index-v3.py](https://github.com/raquelbarbieri/dio-desafio-heroi/blob/main/index-v3.py)
-- Utilizei a IDE colab Google
+- Utilizei a IDE Google Colab
